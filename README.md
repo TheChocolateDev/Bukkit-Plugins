@@ -2,4 +2,5 @@
 The CAC Source Code
 
 Developers:
-- Head - CallMeBlind
+- Head - CallMeFilms
+- Dev - mr_coolman
